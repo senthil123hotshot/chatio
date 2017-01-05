@@ -1,0 +1,14 @@
+{
+  "name": "chatio",
+  "version": "0.0.0",
+  "description": "no description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "senthil",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.7.2"
+  }
+}
